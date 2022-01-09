@@ -6,7 +6,6 @@
 - 🌱 I’m currently diving deeper into core C++
 - 👯 I’m looking to collaborate on Backend and Graph Visualization related projects
 - 🎨 I paint once a while, can be viewed at [![instagram badge](https://img.shields.io/badge/reshpalette-30302f?style=flat&logo=instagram)](https://www.instagram.com/reshpalette/)
-- 💬 Ask me about anything related to tech and books !
 - 📫 How to reach me: email - er.reshusingh@gmail.com
 - 😄 Pronouns: She/Her
 
