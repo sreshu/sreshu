@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently diving deeper into core C++
-- 👯 I’m looking to collaborate on Projects
+- 👯 I’m looking to collaborate on Backend and Graph Visualization related projects
 - 💬 Ask me about anything related to tech and books !
 - 📫 How to reach me: email - er.reshusingh@gmail.com
 - 😄 Pronouns: She/Her
