@@ -2,7 +2,7 @@
 [![medium badge](https://img.shields.io/badge/Reshu_Singh-30302f?style=flat&logo=medium)](https://medium.com/@reshusingh)
 
 
-## Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there!
 
 - 🌱 I’m currently diving deeper into core C++
 - 👯 I’m looking to collaborate on Backend and Graph Visualization related projects
