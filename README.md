@@ -1,5 +1,4 @@
 [![linkedin badge](https://img.shields.io/badge/Reshu_Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/reshu-ai)
-[![medium badge](https://img.shields.io/badge/Reshu_Singh-30302f?style=flat&logo=medium)](https://medium.com/@reshusingh)
 
 
 ## Hi there!
