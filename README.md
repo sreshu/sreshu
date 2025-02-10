@@ -4,8 +4,7 @@
 
 ## Hi there!
 
-- 🌱 I’m currently diving deeper into core C++
-- 👯 I’m looking to collaborate on Backend and Graph Visualization related projects
+- 👯 I’m looking to collaborate on Data and MLOps related projects
 - 🎨 I paint once a while, can be viewed at [![instagram badge](https://img.shields.io/badge/palettenclicks-30302f?style=flat&logo=instagram)](https://www.instagram.com/palettenclicks/)
 - 📫 How to reach me: email - er.reshusingh@gmail.com
 - 😄 Pronouns: She/Her
